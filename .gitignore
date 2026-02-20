@@ -1,0 +1,14 @@
+# Outputs de agentes — contenido temporal, no va al repo
+_inbox/*
+!_inbox/README.md
+
+# Notas de reuniones — privadas de cada instancia
+meetings/*
+!meetings/README.md
+
+# Obsidian — configuración local del editor
+.obsidian/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
